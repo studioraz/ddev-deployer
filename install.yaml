@@ -1,0 +1,7 @@
+name: ddev-deployer
+
+project_files:
+  - commands/web/dep
+
+post_install_actions: []
+removal_actions: []
