@@ -6,8 +6,8 @@ A DDEV add-on to expose Deployer’s `dep` command inside your project’s web c
 
 ```bash
 cd your-project
-ddev get studioraz/ddev-deployer
-ddev start
+ddev add-on get studioraz/ddev-deployer
+ddev restart
 ```
 
 Once DDEV has restarted, you can run:
